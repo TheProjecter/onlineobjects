@@ -1,0 +1,9 @@
+#summary Describes different types of relations
+
+= Relations =
+
+Describes different types of relations
+
+= Web =
+
+  * *web.content* 
