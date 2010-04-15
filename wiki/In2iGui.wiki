@@ -1,0 +1,17 @@
+#summary One-sentence summary of this page.
+
+= In2iGui =
+
+==List==
+
+====Events====
+  * *listRowWasOpened* - When a row is double clicked (open)
+  * *selectionChanged* - When a row is selected (select)
+  * ~~onRowOpen~~
+  * ~~listRowsWasOpened~~
+
+====bindings====
+  * *window* 
+  * *window.page*
+  * *sort.direction*
+  * *sort.key* 
