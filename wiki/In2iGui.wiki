@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+Describes events and bindings for In2iGui widgets
 
 = In2iGui =
 
