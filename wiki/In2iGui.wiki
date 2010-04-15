@@ -10,8 +10,13 @@ Describes events and bindings for In2iGui widgets
   * ~~onRowOpen~~
   * ~~listRowsWasOpened~~
 
-====bindings====
+====Bindings====
   * *window* 
   * *window.page*
   * *sort.direction*
   * *sort.key* 
+
+==SearchField==
+
+====Bindings====
+  * search.value
